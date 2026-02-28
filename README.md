@@ -1,3 +1,3 @@
 # meu-primeiro-repo
 ## Colaboradores
-- Paula(@paulasilva)
+- Paula(@paulasilvasilva)
